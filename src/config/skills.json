@@ -1,0 +1,14 @@
+{
+  "rocket": { "speed": 8, "stunSec": 1, "directions": 8 },
+  "speed":  { "multiplier": 2, "durationSec": 3 },
+  "shield": { "radius": 1, "durationSec": 5 },
+  "laser":  { "visualTicks": 12 },
+  "roller": { "width": 3, "durationSec": 3 },
+  "star":   { "tilesToClear": 5, "visualTicks": 15 },
+  "bomb":   { "delaySec": 2, "radius": 2, "explosionVisualTicks": 18 },
+  "charge": { "durationSec": 4, "pushback": 2, "stunSec": 0.3 },
+  "seed":   {},
+  "ripple": {},
+  "mark":   {},
+  "rewind": {}
+}

@@ -1,0 +1,7 @@
+{
+  "intervalSec": 10,
+  "spawnsPerCycle": 2,
+  "maxCycles": 5,
+  "pool": ["rocket", "speed", "shield", "laser"],
+  "areaSkills": ["shield"]
+}

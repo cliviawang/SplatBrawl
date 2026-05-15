@@ -1,0 +1,14 @@
+{
+  "rocket": { "icon": "images/skills/rocket-icon.png", "projectile": "images/skills/rocket_projectile.png" },
+  "speed":  { "icon": "images/skills/speed-icon.png", "trail": "" },
+  "star":   { "icon": "images/skills/star-icon.png", "sparkle": "" },
+  "shield": { "icon": "images/skills/shield-icon.png", "bubble": "" },
+  "laser":  { "icon": "images/skills/laser-icon.png", "beam": "" },
+  "roller": { "icon": "images/skills/roller-icon.png", "brush": "" },
+  "bomb":   { "icon": "images/skills/bomb-icon.png", "fuse": "images/skills/bomb-icon.png", "explosion": "images/skills/bomb-icon.png" },
+  "seed":   { "icon": "" },
+  "charge": { "icon": "" },
+  "ripple": { "icon": "" },
+  "mark":   { "icon": "" },
+  "rewind": { "icon": "" }
+}

@@ -1,0 +1,14 @@
+{
+  "moveSpeed": 4,
+  "dashDistance": 3,
+  "dashCooldownSec": 5,
+  "dashDurationSec": 0.2,
+  "coverSlowFactor": 0.85,
+  "coverSlowDurationTicks": 30,
+  "collisionRadius": 0.4,
+  "collisionPushback": 0.2,
+  "collisionInvulnSec": 0.1,
+  "dashHitStunSec": 0.3,
+  "dashMissStunSec": 0.3,
+  "dashHitPushback": 2
+}

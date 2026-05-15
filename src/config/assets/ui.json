@@ -1,0 +1,11 @@
+{
+  "button": {
+    "start": "",
+    "easy": "",
+    "medium": "",
+    "hard": "",
+    "restart": "",
+    "back": ""
+  },
+  "hud": { "scorebar": "" }
+}

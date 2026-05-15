@@ -1,0 +1,10 @@
+{
+  "decisionInterval": 400,
+  "pathRandomness": 0.3,
+  "dashChancePerSec": 0.5,
+  "dashTargetPriority": "nearest",
+  "preferNeutralTiles": true,
+  "skillPositionAware": true,
+  "awarenessRadius": 8,
+  "trackScores": true
+}

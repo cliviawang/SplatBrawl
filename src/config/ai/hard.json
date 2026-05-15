@@ -1,0 +1,14 @@
+{
+  "decisionInterval": 250,
+  "pathRandomness": 0.05,
+  "dashChancePerSec": 0.8,
+  "dashTargetPriority": "utility",
+  "preferNeutralTiles": true,
+  "skillPositionAware": true,
+  "awarenessRadius": 16,
+  "trackScores": true,
+  "useUtilityScoring": true,
+  "laggingAggressionFactor": 1.6,
+  "leadingDefenseFactor": 1.8,
+  "comboSkillCast": true
+}

@@ -1,0 +1,31 @@
+{
+  "tile": {
+    "neutral": "#f5e6c8",
+    "red":     "#e74c3c",
+    "blue":    "#3498db",
+    "yellow":  "#f1c40f",
+    "green":   "#2ecc71"
+  },
+  "player": {
+    "red":     "#c0392b",
+    "blue":    "#2980b9",
+    "yellow":  "#f39c12",
+    "green":   "#27ae60"
+  },
+  "ui": {
+    "bg":         "#222222",
+    "bg2":        "#333333",
+    "text":       "#ffffff",
+    "textShadow": "#000000",
+    "warning":    "#ff0000",
+    "dim":        "#666666",
+    "disabled":   "#e74c3c",
+    "ringTrack":  "#444444",
+    "pickupBg":   "#ffffff",
+    "pickupRing": "#000000",
+    "shieldFill": "#7fdbff",
+    "shieldRing": "#0074d9",
+    "buffSpeed":  "#f1c40f",
+    "buffStun":   "#9b59b6"
+  }
+}

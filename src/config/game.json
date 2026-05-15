@@ -1,0 +1,6 @@
+{
+  "mapWidth": 16,
+  "mapHeight": 10,
+  "matchDurationSec": 60,
+  "tickRate": 60
+}

@@ -1,0 +1,8 @@
+{
+  "spawns": [
+    { "playerId": 0, "color": "red",    "row": 1, "col": 8  },
+    { "playerId": 1, "color": "blue",   "row": 8, "col": 8  },
+    { "playerId": 2, "color": "yellow", "row": 4, "col": 1  },
+    { "playerId": 3, "color": "green",  "row": 4, "col": 14 }
+  ]
+}

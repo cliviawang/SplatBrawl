@@ -1,0 +1,6 @@
+{
+  "decisionInterval": 800,
+  "pathRandomness": 0.7,
+  "dashChancePerSec": 0.2,
+  "dashTargetPriority": "random"
+}
