@@ -1,5 +1,5 @@
 {
-  "rocket": { "speed": 8, "stunSec": 1, "directions": 8 },
+  "rocket": { "speed": 10, "stunSec": 2, "directions": 8 },
   "speed":  { "multiplier": 2, "durationSec": 3 },
   "shield": { "radius": 1, "durationSec": 5 },
   "laser":  { "visualTicks": 12 },

@@ -3,7 +3,7 @@
   "dashDistance": 3,
   "dashCooldownSec": 5,
   "dashDurationSec": 0.2,
-  "coverSlowFactor": 0.85,
+  "coverSlowFactor": 0.80,
   "coverSlowDurationTicks": 30,
   "collisionRadius": 0.4,
   "collisionPushback": 0.2,
