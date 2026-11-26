@@ -15,11 +15,9 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  deploy:
+  build:
+    name: 构建并上传
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: 检出代码
         uses: actions/checkout@v4
@@ -47,6 +45,14 @@ jobs:
         with:
           path: dist
 
+  deploy:
+    name: 部署网站
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - name: 部署到 GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
